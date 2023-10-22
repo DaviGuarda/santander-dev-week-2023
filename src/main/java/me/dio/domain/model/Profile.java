@@ -12,7 +12,7 @@ public class Profile {
     private String nameTag;
     private String level;
 
-    @Column(scale = 10, precision = 2)
+    @Column(precision = 13, scale = 2)
     private BigDecimal expPoints;
     private Long gameCredits;
 
