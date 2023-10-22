@@ -1,4 +1,4 @@
-# santander Dev Week 2023
+# Santander Dev Week 2023
 JAVA RESTful API criada para a Santander Dev Week
 
 ## Diagrama de Classes
